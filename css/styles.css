@@ -69,7 +69,7 @@ body {
 }
 
 .layers__plants {
-    transform: translate3d(0, calc(var(--scrollTop) / 5.7), 0);
+    transform: translate3d(0, calc(var(--scrollTop) / 2.5), 0);
 }
 
 .layers__character {
